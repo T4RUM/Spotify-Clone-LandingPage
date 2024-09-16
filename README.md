@@ -57,7 +57,7 @@ spotify-clone/
 ```
 
 ## 🖼️ Capturas de Tela
-
+![Página do Spotify Clone](https://github.com/T4RUM/Spotify-Clone-LandingPage/blob/main/src/img/page.png)
 
 
 
